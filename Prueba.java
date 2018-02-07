@@ -4,7 +4,7 @@ public class Prueba
 	{
 		System.out.println("Hola Mundo Omar Roser");
 		System.out.println("Aja");
-		System.out.println("Adios");
+		System.out.println("Adios")--
 		
 	}
 }
